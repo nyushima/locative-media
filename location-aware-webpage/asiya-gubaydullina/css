@@ -1,0 +1,45 @@
+body {
+   background-image: white;
+   
+
+}
+#mapholder {
+	color: black;
+	position: absolute;
+    left: 25%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+#honey {
+
+
+	margin-left: auto;
+	text-align: center;
+	
+	}
+#text {
+
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: justify;
+
+}
+#title {
+	text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+#loc {
+	font-style: italic;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: justify;
+
+}
+h1 {
+	text-align: center;
+    text-transform: uppercase;
+    color: black;
+
+}
