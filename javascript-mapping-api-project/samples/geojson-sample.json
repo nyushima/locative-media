@@ -1,0 +1,19 @@
+json_callback({
+	"type": "FeatureCollection",
+	"metadata": {
+		"title": "My data collection"
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"property1": 6,
+			"property2": "A string",
+			"property3": "image.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0, 0, 0]
+		},
+		"id": "1"
+	}]
+});

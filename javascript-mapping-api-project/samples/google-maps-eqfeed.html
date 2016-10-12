@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Maps GeoJSON</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+	var map;
+	function initMap() {
+		var location = {lat: 0, lng: 0};
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: location,
+          zoom: 2
+        });
+		var script = document.createElement('script');
+		script.src = 'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojsonp';
+		document.getElementsByTagName('head')[0].appendChild(script);
+		window.eqfeed_callback = function(results) {
+			for (var i = 0; i < results.features.length; i++) {
+				var coords = results.features[i].geometry.coordinates;
+				var latLng = new google.maps.LatLng(coords[1],coords[0]);
+				var mag = results.features[i].properties.mag;
+				var place = results.features[i].properties.place;
+				add_marker(i, latLng, '<h4>Place: '+place+'</h4> Magnitude: '+mag);
+			}
+		}
+		function add_marker(id, point, text) {
+			var marker = new google.maps.Marker({map: map, position: point, clickable: true});
+			var info_window = new google.maps.InfoWindow({
+    			content: text
+			});
+			google.maps.event.addListener(marker, 'click', function() {
+				info_window.open(this.getMap(), this);
+			});
+			return marker;
+		}
+	}  
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDT7WBMT2n94igoVNOeZ197pCFV2O-J7hg&callback=initMap"
+    async defer></script>
+  </body>
+  </html>
