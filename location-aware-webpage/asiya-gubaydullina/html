@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<title> Focus Pocus News </title>
+<h1>Hocus Pocus News</h1>
+</head>
+<body>
+<div id="honey"> 
+<p id="title">Clowns Terrorizing Greenville.
+<br> by Jacob Geers</p>
+<p id="text">Reports have come in from Greenville that clowns are now harassing residents by knocking on their doors, and hanging out closer to the condos by the basketball courts. Police have responded to numerous calls now involving the clowns. The reports coming in - even from accredited news outlets - are vague and scattered. Police claim to have investigated that gun shots have been fired at the clowns, and another report indicates that a gang of children tried to fight back by chasing a clown out of the complex grounds.
+
+Numerous children in the area have claimed that the clown lives in an abandoned home in the woods. Police have not been able to substantiate this.</p>
+<p id="loc">In order to guarantee the safety of citizens, police released detailed map with known locations of dangerous clowns. The map is available to public. <p>
+
+<button onclick="getLocation()">Show the closest location</button>
+
+</div>
+
+<div id="mapholder"></div>
+
+
+<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+
+<script>
+var x = document.getElementById("text");
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    lat = position.coords.latitude;
+    lon = position.coords.longitude;
+    latlon = new google.maps.LatLng(lat, lon)
+    mapholder = document.getElementById('mapholder')
+    mapholder.style.height = '300px';
+    mapholder.style.width = '700px';
+
+
+    var myOptions = {
+    center:latlon,zoom:14,
+    mapTypeId:google.maps.MapTypeId.ROADMAP,
+    mapTypeControl:false,
+    navigationControlOptions:{style:google.maps.NavigationControlStyle.SMALL}
+    }
+    
+    var map = new google.maps.Map(document.getElementById("mapholder"), myOptions);
+    var marker = new google.maps.Marker({position:latlon,map:map,title:"You are here!"});
+}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            x.innerHTML = "User denied the request for Geolocation."
+            break;
+        case error.POSITION_UNAVAILABLE:
+            x.innerHTML = "Location information is unavailable."
+            break;
+        case error.TIMEOUT:
+            x.innerHTML = "The request to get user location timed out."
+            break;
+        case error.UNKNOWN_ERROR:
+            x.innerHTML = "An unknown error occurred."
+            break;
+    }
+}
+</script>
+<br>
+<br>
+</body>
+</html>
