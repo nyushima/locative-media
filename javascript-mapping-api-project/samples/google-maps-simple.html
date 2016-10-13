@@ -23,10 +23,10 @@
 		var location = {lat: 0, lng: 0};
         map = new google.maps.Map(document.getElementById('map'), {
           center: location,
-          zoom: 2
+          zoom: 8
         });
 		var infowindow = new google.maps.InfoWindow({
-			content: 'This is some text for the info window.'
+			content: '<h1>This is some</h1> <text <b>for the info window.</b>'
 		});
 		var marker = new google.maps.Marker({
 			position: location,
@@ -38,7 +38,7 @@
 		});
 	}  
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=[google-maps-api-key]&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDT7WBMT2n94igoVNOeZ197pCFV2O-J7hg&callback=initMap"
     async defer></script>
   </body>
   </html>
