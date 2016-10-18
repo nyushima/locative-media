@@ -1,0 +1,427 @@
+json_callback({
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3892253041267,
+          -34.5929946084017
+        ]
+      },
+      "properties": {
+        "name": "Plaza Vicente Lopez y Planes",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "1301 - 1499 Montevideo, Buenos Aires, C1018 AR",
+        "rating": 4,
+        "general_comments": "Children friendly park with a playground"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3925106748938,
+          -34.5978694754288
+        ]
+      },
+      "properties": {
+        "name": "Plaza Rodrigez Pena",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "901 - 965 Avenida Callao, Buenos Aires, C1018 AR",
+        "rating": 6,
+        "general_comments": "Children friendly park with a playground"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4170736745,
+          -34.5710970964494
+        ]
+      },
+      "properties": {
+        "name": "Bosques De Palermo",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "410 Avenida Infanta Isabel, Buenos Aires, C1425 AR",
+        "rating": 10,
+        "general_comments": "Wonderful rose garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3981671184301,
+          -34.5888553145541
+        ]
+      },
+      "properties": {
+        "name": "Plaza República del Paraguay",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "1602–1700 Calle Larrea, Buenos Aires, C1126 AR",
+        "rating": 5,
+        "general_comments": "There is a McDonald's right across the park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38338613510131,
+          -34.59744776919776
+        ]
+      },
+      "properties": {
+        "name": "Plaza Libertad",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "947-991 Calle Libertad, Buenos Aires, C1012 AR",
+        "rating": 4,
+        "general_comments": "Medium-sized plaza with a fountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37195992469787,
+          -34.59000242497663
+        ]
+      },
+      "properties": {
+        "name": "Plaza Canadá",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "1201-1285 Gustavo Martínez Zuviría, Buenos Aires, C1104 AR",
+        "rating": 4,
+        "general_comments": "There is a giant totem in the middle of the park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37374895811081,
+          -34.592168532555796
+        ]
+      },
+      "properties": {
+        "name": "Plaza Fuerza Aérea Argentina",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "49 Avenida del Libertador, C1104 AR ",
+        "rating": 7,
+        "general_comments": "There is symbolic monument in the middle of the plaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37571769952774,
+          -34.59473643402506
+        ]
+      },
+      "properties": {
+        "name": "Plaza San Martín",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "address_full": "705-750 Avenida Santa Fe ,Buenos Aires, C1006 AR",
+        "rating": 9,
+        "general_comments": "The most famous plaza of Buenos Aires"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.372147679328926,
+          -34.60848649371888
+        ]
+      },
+      "properties": {
+        "name": "Plaza de Mayo",
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "address_full": "Avenida Hipólito Yrigoyen, Buenos Aires,C1064 AR",
+        "rating": 6,
+        "general_comments": "Plaza in front of the Pink House"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Parque Las Heras",
+        "address_full": "3201 - 3502 Avenida General las Heras, Buenos Aires, C1425 AR",
+        "rating": 6,
+        "general comments": "Very big open green zone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40853452682495,
+          -34.58397853842463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Jardín Botánico de Buenos Aires",
+        "address full": "3901-3999 Avenida Santa Fe, Buenos Aires, C1425 AR",
+        "rating": 10,
+        "general comments": "Absolutely marvelous green space!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.41766476631164,
+          -34.58275957570846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Plaza Rubén Darío",
+        "address_full": "2302 Avenida Pres. Figueroa Alcorta, C1425 AR",
+        "rating": 6,
+        "general comments": "This plaza has a lake!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3951449394226,
+          -34.582962737402745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Parque Centenario",
+        "address_full": "4802 Avenida Díaz Vélez, Buenos Aires, C1405 AR",
+        "rating": 8,
+        "general comments": "Great park with a lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43558192253113,
+          -34.60648197038401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "triangle-stroked",
+        "name": "Parque Chacabuco",
+        "address_full": "1150 Calle Curapaligüe, Buenos Aires, C1406 AR",
+        "rating": 7,
+        "general comments": "Great park for youngsters. There is a cool graffiti wall across the park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44316720962524,
+          -34.63405537226477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80c0",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "name": "Parque Lezama",
+        "address_full": "202 - 300 Avenida Brasil, Buenos Aires, C1154 AR",
+        "rating": 7,
+        "general comments": "Great green space in San Telmo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36941719055176,
+          -34.62692230625636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80c0",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80c0",
+        "fill-opacity": 0.5,
+        "name": "Costanera Sur Ecological Reserve",
+        "address_full": "Avenida Intendente Hernan M. Giralt , Buenos Aires, AR",
+        "rating": 10,
+        "general comments": "10/10 material. Could probably spend an entire day there!"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.3626365661621,
+              -34.59753608481604
+            ],
+            [
+              -58.358430862426765,
+              -34.595204521010366
+            ],
+            [
+              -58.3556842803955,
+              -34.59633498436187
+            ],
+            [
+              -58.35371017456054,
+              -34.59732412717439
+            ],
+            [
+              -58.352251052856445,
+              -34.599161075433145
+            ],
+            [
+              -58.350019454956055,
+              -34.6007153845359
+            ],
+            [
+              -58.34770202636719,
+              -34.60255225779187
+            ],
+            [
+              -58.347015380859375,
+              -34.6048129691028
+            ],
+            [
+              -58.34650039672851,
+              -34.60728555162915
+            ],
+            [
+              -58.34426879882813,
+              -34.60848649371888
+            ],
+            [
+              -58.34255218505859,
+              -34.6097580605278
+            ],
+            [
+              -58.34169387817383,
+              -34.61152409323302
+            ],
+            [
+              -58.34126472473144,
+              -34.613148810142455
+            ],
+            [
+              -58.34092140197753,
+              -34.61505604594083
+            ],
+            [
+              -58.34117889404297,
+              -34.61639814856778
+            ],
+            [
+              -58.34392547607421,
+              -34.61689260196021
+            ],
+            [
+              -58.34667205810547,
+              -34.616680693724135
+            ],
+            [
+              -58.348217010498054,
+              -34.61689260196021
+            ],
+            [
+              -58.349246978759766,
+              -34.61724578115145
+            ],
+            [
+              -58.34856033325196,
+              -34.618517213796665
+            ],
+            [
+              -58.347272872924805,
+              -34.61915292281552
+            ],
+            [
+              -58.34718704223632,
+              -34.620212427026495
+            ],
+            [
+              -58.346843719482415,
+              -34.62211950052117
+            ],
+            [
+              -58.34667205810547,
+              -34.623461488931966
+            ],
+            [
+              -58.34890365600586,
+              -34.6231789668595
+            ],
+            [
+              -58.3509635925293,
+              -34.623532119299774
+            ],
+            [
+              -58.352165222167976,
+              -34.623532119299774
+            ],
+            [
+              -58.35516929626465,
+              -34.61887038607495
+            ],
+            [
+              -58.3626365661621,
+              -34.59753608481604
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+});
