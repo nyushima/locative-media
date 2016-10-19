@@ -1,0 +1,329 @@
+---- ExifTool ----
+ExifTool Version Number         : 10.30
+---- System ----
+File Name                       : tristan2.jpg
+Directory                       : C:/Users/Tristan/Documents/GitHub/locative-media/geocoded-images
+File Size                       : 142 kB
+File Modification Date/Time     : 2016:10:19 11:57:27+02:00
+File Access Date/Time           : 2016:10:19 11:57:27+02:00
+File Creation Date/Time         : 2016:10:19 11:57:27+02:00
+File Permissions                : rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Current IPTC Digest             : 64cd6e35c94585923133e1408fb1ce67
+Image Width                     : 1000
+Image Height                    : 667
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+---- IFD0 ----
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D800
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop Lightroom 6.7 (Macintosh)
+Modify Date                     : 2016:10:12 12:31:45
+---- ExifIFD ----
+Exposure Time                   : 1/25
+F Number                        : 8.0
+Exposure Program                : Aperture-priority AE
+ISO                             : 100
+Sensitivity Type                : Recommended Exposure Index
+Exif Version                    : 0230
+Date/Time Original              : 2013:06:08 05:57:09
+Create Date                     : 2013:06:08 05:57:09
+Shutter Speed Value             : 1/25
+Aperture Value                  : 8.0
+Exposure Compensation           : 0
+Max Aperture Value              : 3.5
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 24.0 mm
+Sub Sec Time Original           : 20
+Sub Sec Time Digitized          : 20
+Color Space                     : sRGB
+Focal Plane X Resolution        : 2048.402222
+Focal Plane Y Resolution        : 2048.402222
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+CFA Pattern                     : [Red,Green][Green,Blue]
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 24 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 3002949
+Lens Info                       : 24-85mm f/3.5-4.5
+Lens Model                      : 24.0-85.0 mm f/3.5-4.5
+---- GPS ----
+GPS Version ID                  : 2.3.0.0
+GPS Latitude Ref                : North
+GPS Latitude                    : 12 deg 1' 54.64"
+GPS Longitude Ref               : East
+GPS Longitude                   : 39 deg 2' 43.78"
+GPS Altitude Ref                : Above Sea Level
+GPS Altitude                    : 2498 m
+GPS Time Stamp                  : 13:57:09
+GPS Satellites                  : 06
+GPS Img Direction Ref           : Magnetic North
+GPS Img Direction               : 35.11
+GPS Map Datum                   : WGS 84
+GPS Date Stamp                  : 2013:06:08
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 1284
+Thumbnail Length                : 13671
+---- Photoshop ----
+X Resolution                    : 72
+Displayed Units X               : inches
+Y Resolution                    : 72
+Displayed Units Y               : inches
+Photoshop Thumbnail             : (Binary data 13671 bytes, use -b option to extract)
+IPTC Digest                     : 64cd6e35c94585923133e1408fb1ce67
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2013:06:08
+Time Created                    : 05:57:09
+Digital Creation Date           : 2013:06:08
+Digital Creation Time           : 05:57:09
+City                            : Lalibela
+Province-State                  : Amhara
+Country-Primary Location Code   : ET
+Country-Primary Location Name   : Ethiopia
+---- ICC-header ----
+Profile CMM Type                : Lino
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : IEC
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : HP
+Profile ID                      : 0
+---- ICC_Profile ----
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Luminance                       : 76.03647 80 87.12462
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+---- ICC-view ----
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+---- ICC-meas ----
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+---- XMP-x ----
+XMP Toolkit                     : Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55
+---- XMP-xmp ----
+Creator Tool                    : Adobe Photoshop Lightroom 6.7 (Macintosh)
+Modify Date                     : 2016:10:12 12:31:45+08:00
+Create Date                     : 2013:06:08 05:57:09.20
+Metadata Date                   : 2016:10:12 12:31:45+08:00
+---- XMP-aux ----
+Serial Number                   : 3002949
+Lens Info                       : 24-85mm f/3.5-4.5
+Lens                            : 24.0-85.0 mm f/3.5-4.5
+Lens ID                         : 180
+Image Number                    : 8479
+Approximate Focus Distance      : 4294967295
+---- XMP-photoshop ----
+Date Created                    : 2013:06:08 05:57:09.20
+City                            : Lalibela
+State                           : Amhara
+Country                         : Ethiopia
+---- XMP-xmpMM ----
+Document ID                     : xmp.did:dedf7da0-a513-4209-88a2-5de2c7ac91f1
+Original Document ID            : A6DC70BD0D1D2FE75603818ABB26E543
+Instance ID                     : xmp.iid:dedf7da0-a513-4209-88a2-5de2c7ac91f1
+History Action                  : derived, saved
+History Parameters              : converted from image/x-nikon-nef to image/jpeg, saved to new location
+History Instance ID             : xmp.iid:dedf7da0-a513-4209-88a2-5de2c7ac91f1
+History When                    : 2016:10:12 12:31:45+08:00
+History Software Agent          : Adobe Photoshop Lightroom 6.7 (Macintosh)
+History Changed                 : /
+Derived From Document ID        : A6DC70BD0D1D2FE75603818ABB26E543
+Derived From Original Document ID: A6DC70BD0D1D2FE75603818ABB26E543
+---- XMP-dc ----
+Format                          : image/jpeg
+---- XMP-iptcCore ----
+Country Code                    : ET
+---- XMP-crs ----
+Version                         : 9.7
+Process Version                 : 6.7
+White Balance                   : As Shot
+Auto White Version              : 134348800
+Color Temperature               : 4050
+Tint                            : -14
+Saturation                      : 0
+Sharpness                       : 25
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Auto Lateral CA                 : 0
+Exposure 2012                   : +0.70
+Contrast 2012                   : -1
+Highlights 2012                 : -15
+Shadows 2012                    : +15
+Whites 2012                     : +20
+Blacks 2012                     : 0
+Clarity 2012                    : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Tone Curve Name                 : Linear
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Lens Profile Setup              : LensDefaults
+Upright Version                 : 151388160
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Mode              : 0
+Upright Focal Length 35mm       : 35
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Four Segments Count     : 0
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : True
+Tone Curve                      : 0, 0, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+---- Adobe ----
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+---- Composite ----
+Aperture                        : 8.0
+Date/Time Created               : 2013:06:08 05:57:09
+Digital Creation Date/Time      : 2013:06:08 05:57:09
+GPS Altitude                    : 2498 m Above Sea Level
+GPS Date/Time                   : 2013:06:08 13:57:09Z
+GPS Latitude                    : 12 deg 1' 54.64" N
+GPS Longitude                   : 39 deg 2' 43.78" E
+GPS Position                    : 12 deg 1' 54.64" N, 39 deg 2' 43.78" E
+Image Size                      : 1000x667
+Megapixels                      : 0.667
+Shutter Speed                   : 1/25
+Create Date                     : 2013:06:08 05:57:09.20
+Date/Time Original              : 2013:06:08 05:57:09.20
+Thumbnail Image                 : (Binary data 13671 bytes, use -b option to extract)
+Lens ID                         : AF-S VR Zoom-Nikkor 24-85mm f/3.5-4.5G IF-ED
+Light Value                     : 10.6
+Scale Factor To 35 mm Equivalent: 1.0
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 73.7 deg
+Focal Length                    : 24.0 mm (35 mm equivalent: 24.0 mm)
+Hyperfocal Distance             : 2.40 m
