@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<title>LM Assignment</title>
+<body>
+<p>Part 1</p>
+<div style="border-style: double;">
+<button onclick="getLocation()">Get Location</button>
+<p id="demo">...and the result will be shown here.</p>
+</div>
+<p>Part 2</p>
+<div style="border-style: double;">
+    <p> Click anywhere on the map to place a mark and click on it to get surprise!</p>
+    <div id="mapholder"></div>
+    <div id="map"></div>
+</div>
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+	x.innerHTML = "Latitude: " + position.coords.latitude +
+    "<br>Longitude: " + position.coords.longitude + "<br>Altitude: " + position.coords.altitude;
+}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            x.innerHTML = "User denied the request for Geolocation."
+            break;
+        case error.POSITION_UNAVAILABLE:
+            x.innerHTML = "Location information is unavailable."
+            break;
+        case error.TIMEOUT:
+            x.innerHTML = "The request to get user location timed out."
+            break;
+        case error.UNKNOWN_ERROR:
+            x.innerHTML = "An unknown error occurred."
+            break;
+    }
+}
+</script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdv1oN2EyeEpaHgR_2iT70b2wru2oe6u8&amp;sensor=false"></script>
+  <script>
+  var map;
+  $(document).ready(function() {
+    console.log('ready');
+    var loc = new google.maps.LatLng(0,0);
+    var mapOptions = {
+      zoom: 2,
+      mapTypeId:google.maps.MapTypeId.SATELLITE,
+      center: loc
+    }
+    map = new google.maps.Map(document.getElementById('map'),mapOptions);
+    google.maps.event.addListener(map, 'click',function(event) {
+      console.log('click',event);
+      geocodeLatLng(event.latLng);
+    });
+  });
+    function geocodeLatLng(loc) {
+      console.log('geocodeLatLng',loc);
+      var geocoder = new google.maps.Geocoder();
+      geocoder.geocode({'latLng':loc}, function(results,status) {
+        if (status == google.maps.GeocoderStatus.OK) {
+          if (results[0]) {
+            try {
+              console.log('here');
+              var cName = getcNameFromResult(results[0]);
+              placeMarker(loc, cName);
+              console.log('Welcome to '+cName+ '.');
+            } catch(err) {
+              console.log('geocoder error '+err);
+            }
+          }
+        }
+      });
+    }
+    function getcNameFromResult(results) {
+      console.log('getcNameFromResult',results);
+      var cName = '';
+      for (var i = 0; i < results.address_components.length; i++) {
+        var adc = results.address_components[i].types;
+        if (adc.indexOf('country') !=-1) {
+          cName = results.address_components[i].long_name;
+          return cName;
+        }
+      }
+    }
+    function placeMarker(loc, cName) {
+        console.log('placeMarker'+cName);
+        var marker = new google.maps.Marker({position: loc, title: cName, map: map});
+        var infoWindow = new google.maps.InfoWindow({
+            content: '<h3>'+cName+'</h3>'
+        });
+        google.maps.event.addListener(marker, 'click', function() {
+            infoWindow.open(map, marker);
+        });
+        getWeatherData(loc, infoWindow);
+        getCountryDataFromFreebase(cName, infoWindow);
+        marker.setMap(map);
+        return marker;
+    }
+
+    function getCountryDataFromFreebase(cName, infoWindow) {
+        console.log('getCountryDataFromFreebase '+cName);
+        var baseUrl = 'https://www.googleapis.com/freebase/v1/mqlread?callback=?';
+        var apiKey = "AIzaSyAkSwjYxP-RaE1J_QrCYmqZQ1u5PIXtTvY";
+        var query = [{'name': cName, 'type': '/location/country', 'capital': [], 'form_of_government': [], 'currency_used': []}];
+        var envelope = {'query': query};
+        var params = {
+            'query': JSON.stringify(query)
+        };
+        $.getJSON(baseUrl, params, function(data) {
+            console.log('Freebase data: ', data);
+            infoWindow.content += '<br />Capital: '+data.result[0].capital;
+
+        });
+    }
+  //   function getWeatherData(loc, infoWindow) {
+  //     console.log('getWeatherData', loc);
+  //     var baseUrl = 'http://api.worldweatheronline.com/free/v1/weather.ashx?key=';
+  //     var apiKey = '52gw56d222szc2yyd72bjkpd';
+  //     var query = '&q='+loc.lat()+','+loc.lng()+'&format=json&num_of_day=1';
+  //     var requestUrl = baseUrl+apiKey+query;
+  //     console.log(requestUrl);
+  //     $.ajax({
+  //       url: requestUrl,
+  //       dataType: 'jsonp'
+  //     }).done(function(result) {
+  //       console.log('result', result);
+  //       try {
+  //         var currentCondition = result.data.current_condition[0];
+  //         console.log(currentCondition.temp_C);
+  //         infoWindow.content += '<br />Current Weather Condition: '+currentCondition.weatherDesc[0].value;
+  //       } catch(error) {
+  //         console.log('weather error', error);
+  //       }
+  //     });
+  //   }
+  // getWeatherData({ 'lat': 40.7141667, 'lng': -74.0063889 });
+  </script>
+  <style>
+  #map {
+    width: 800px;
+    height: 600px;
+  }
+  </style>
+</body>
+</html>
+
