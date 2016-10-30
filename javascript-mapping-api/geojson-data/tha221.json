@@ -1,0 +1,263 @@
+json_callback({
+	"type": "FeatureCollection",
+	"metadata": {
+		"title": "Asian Restaurants in Berlin"
+	},
+	"features": [{
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Samadhi",
+			"address": "Wilhelmstraße 77, 10117 Berlin",
+			"culturalStyle": "Vietnamese and Thai",
+			"diet": "vegan",
+			"lowestPrice": 10,
+			"highestPrice": 20,
+			"referenceImage": "http://www.samadhi-vegetarian.de/images/1440x900/1173367/samadhiauswahlzwei_8fertig.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5146, 13.3813]
+		},
+		"id": "1"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Lucky Star",
+			"address": "Friedrichstraße 127, 10117 Berlin",
+			"culturalStyle": "Chinese Hot Pot",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 30,
+			"referenceImage": "http://www.gastro-gold-europa.com/th750/_lokalbilder/o/b36jvd7rkh9ui6q3jvcrngovs7_bild1luckystar.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5255, 13.3872]
+		},
+		"id": "2"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Lecker Song",
+			"address": "Schliemannstraße 19, 10437 Berlin",
+			"culturalStyle": "Chinese dumplings",
+			"diet": "vegetarian",
+			"lowestPrice": 5,
+			"highestPrice": 15,
+			"referenceImage": "http://berlinfoodstories.com/wp-content/uploads/2014/04/Lecker-Song-Berlin-Dumplings.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5443, 13.4205]
+		},
+		"id": "3"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Chay Umi",
+			"address": "Stargarder Str. 2, 10437 Berlin",
+			"culturalStyle": "Vietnamese",
+			"diet": "vegan",
+			"lowestPrice": 4,
+			"highestPrice": 7,
+			"referenceImage": "http://chay-umi.de/content/1-home/3-galerie/2img_0011.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5473, 13.4119]
+		},
+		"id": "4"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Restaurant Mais",
+			"address": "Weserstraße 203, 12047 Berlin",
+			"culturalStyle": "Vietnamese",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 20,
+			"referenceImage": "https://www.online-tischreservierung.de/images/restaurants/Berlin/Berlin/vmxfbs14z5/1.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.4878, 13.4307]
+		},
+		"id": "5"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Men Men Noodlehouse",
+			"address": "Weserstraße 16, 12047 Berlin",
+			"culturalStyle": "Japanese ramen",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 10,
+			"referenceImage": "http://www.menmen-ramen.de/img/MenMen_Ramen-7916.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.4874, 13.4311]
+		},
+		"id": "6"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Peking Ente Berlin",
+			"address": "Voßstraße 1, 10117 Berlin",
+			"culturalStyle": "Chinese Bejing duck",
+			"diet": "omnivore",
+			"lowestPrice": 10,
+			"highestPrice": 20,
+			"referenceImage": "http://www.21china.de/wp-content/uploads/2015/08/Peking-Ente-Berlin.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5115, 13.3827]
+		},
+		"id": "7"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Yoko Sushi Berlin",
+			"address": "Wilhelmstraße 24, 10963 Berlin",
+			"culturalStyle": "Japanese sushi",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 20,
+			"referenceImage": "https://media-cdn.tripadvisor.com/media/photo-s/08/df/a5/b1/yoko-sushi-friedrichshain.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5041, 13.3876]
+		},
+		"id": "8"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Kori and Fay",
+			"address": "Rudi-Dutschke-Straße 28, 10969 Berlin",
+			"culturalStyle": "Thai",
+			"diet": "omnivore",
+			"lowestPrice": 10,
+			"highestPrice": 20,
+			"referenceImage": "http://www.irissteinbeck.de/tl_files/projekte/Kori-Fay/Diashow/640%20x%20335/KF01.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5068, 13.3908]
+		},
+		"id": "9"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Momos",
+			"address": "Fehrbelliner Str. 5, 10119 Berlin",
+			"culturalStyle": "Nepalese dumplings (momos)",
+			"diet": "vegetarian",
+			"lowestPrice": 3,
+			"highestPrice": 8,
+			"referenceImage": "http://www.berlin-vegan.de/wp-content/uploads/2014/04/Momos6.jpg?w=314&h=209"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5310, 13.4097]
+		},
+		"id": "10"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Saigon Today",
+			"address": "Wilmersdorfer Str. 69, 10629 Berlin",
+			"culturalStyle": "Vietnamese",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 15,
+			"referenceImage": "http://ot-foodspotting-production.s3.amazonaws.com/reviews/849069/thumb_600.jpg?1315439129"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5043, 13.3068]
+		},
+		"id": "11"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Golden Buddha",
+			"address": "Gleimstraße 26, 10437 Berlin",
+			"culturalStyle": "Thai",
+			"diet": "omnivore",
+			"lowestPrice": 5,
+			"highestPrice": 12,
+			"referenceImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/aa/a0/7d/golden-buddha.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5474, 13.4115]
+		},
+		"id": "12"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Gayaya",
+			"address": "Reinhardtstraße 11, 13187 Berlin",
+			"culturalStyle": "Indian",
+			"diet": "vegetarian",
+			"lowestPrice": 8,
+			"highestPrice": 25,
+			"referenceImage": "http://www.gayaya-berlin.de/tl_files/images/header-start.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5234, 13.3857]
+		},
+		"id": "13"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Rou Vegetarian",
+			"address": "Schwedter Str. 25, 10119 Berlin",
+			"culturalStyle": "Vietnamese",
+			"diet": "vegetarian",
+			"lowestPrice": 4,
+			"highestPrice": 14,
+			"referenceImage": "http://www.vegi-rou.de/img/homepage/rou_innen_raum.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5352, 13.4070]
+		},
+		"id": "14"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Mama India",
+			"address": "Schönhauser Allee 10, 10119 Berlin",
+			"culturalStyle": "Indian",
+			"diet": "omnivore",
+			"lowestPrice": 10,
+			"highestPrice": 22,
+			"referenceImage": "http://www.mama-india.de/img/n01.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5304, 13.4108]
+		},
+		"id": "15"
+	}, {
+		"type": "Feature",
+		"properties": {
+			"restaurantName": "Soy",
+			"address": "Rosa-Luxemburg-Straße 30, 10178 Berlin",
+			"culturalStyle": "Vietnamese",
+			"diet": "vegetarian",
+			"lowestPrice": 7,
+			"highestPrice": 18,
+			"referenceImage": "http://www.soy-berlin.com/img/soy-restaurant-berlin.jpg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [52.5260, 13.4110]
+		},
+		"id": "16"
+	}]
+});
