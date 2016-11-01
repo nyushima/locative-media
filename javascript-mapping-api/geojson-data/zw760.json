@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "tilte": "Shopping Malls in United Arab Emirates"
+     "tilte": "Shopping Malls in United Arab Emirates"
   },
   "features": [
     {
@@ -14,7 +14,7 @@
         "location": "Abu Dhabi",
         "opening-date": "May, 2011",
         "number-of-stores": "101",
-        "official-websote": "www.abudhabi-mall.com",
+        "official-website": "www.abudhabi-mall.com",
         "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abu_Dhabi_Mall.JPG/1920px-Abu_Dhabi_Mall.JPG"
       },
       "geometry": {
@@ -26,7 +26,6 @@
       },
       "id": "1"
     },
-    
     {
       "type": "Feature",
       "properties": {
@@ -37,7 +36,7 @@
         "location": "Financial Centre Road,Downtown Dubai",
         "opening-date": "November 4, 2008",
         "number-of-stores": "1200+",
-        "official-websote": "www.thedubaimall.com",
+        "official-website": "www.thedubaimall.com",
         "reference-image": "http://gulfjobvacancy.com/wp-content/uploads/2016/09/dubai-marina-mall1.jpg"
       },
       "geometry": {
@@ -49,7 +48,6 @@
       },
       "id": "2"
     },
-    
     {
       "type": "Feature",
       "properties": {
@@ -60,7 +58,7 @@
         "location": "Dubai",
         "opening-date": "September 28, 2005",
         "number-of-stores": "700+",
-        "official-websote": "www.malloftheemirates.com",
+        "official-website": "www.malloftheemirates.com",
         "reference-image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mall_of_the_Emirates_(3679338750).jpg"
       },
       "geometry": {
@@ -72,7 +70,6 @@
       },
       "id": "3"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -83,7 +80,7 @@
         "location": "Dubai",
         "opening-date": "August 27, 1995",
         "number-of-stores": "370",
-        "official-websote": "www.citycentredeira.com",
+        "official-website": "www.citycentredeira.com",
         "reference-image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mall_of_the_Emirates_(3679338750).jpg"
       },
       "geometry": {
@@ -95,7 +92,6 @@
       },
       "id": "4"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -106,7 +102,7 @@
         "location": "Dubai",
         "opening-date": "August 27, 1995",
         "number-of-stores": "370",
-        "official-websote": "www.citycentredeira.com",
+        "official-website": "www.citycentredeira.com",
         "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/Deira_City_Centre_on_april_2012_pic1.jpg"
       },
       "geometry": {
@@ -118,7 +114,6 @@
       },
       "id": "4"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -128,7 +123,7 @@
         "mall-name": "Ibn Battuta Mall",
         "location": "Dubai",
         "opening-date": "April 4, 2005",
-        "official-websote": "www.IbnBattutaMall.com",
+        "official-website": "www.IbnBattutaMall.com",
         "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/Ibn-Battuta-Mall.jpg"
       },
       "geometry": {
@@ -140,7 +135,6 @@
       },
       "id": "5"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -151,7 +145,7 @@
         "location": "Dubai",
         "opening-date": "2001",
         "number-of-stores": "200+",
-        "official-websote": "www.wafi.com",
+        "official-website": "www.wafi.com",
         "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/waaffiii.jpg"
       },
       "geometry": {
@@ -163,7 +157,6 @@
       },
       "id": "6"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -174,7 +167,7 @@
         "location": "Dubai Festival City Mall, Festival City Area, Dubai",
         "opening-date": "2003",
         "number-of-stores": "75+",
-        "official-websote": "www.festivalcentre.com",
+        "official-website": "www.festivalcentre.com",
         "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/banner-festivalcentre.jpg"
       },
       "geometry": {
@@ -186,7 +179,6 @@
       },
       "id": "7"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -196,7 +188,7 @@
         "mall-name": "Al Ghurair Centre",
         "location": "Al Rigga Street, Deira, Dubai",
         "opening-date": "2003",
-        "official-websote": "alghuraircentre.com",
+        "official-website": "alghuraircentre.com",
         "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/ghurair-1-web.jpg"
       },
       "geometry": {
@@ -208,7 +200,6 @@
       },
       "id": "8"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -217,7 +208,7 @@
         "marker-symbol": "shop",
         "mall-name": "The Galleria",
         "location": "Al Falah St, Abu Dhabi",
-        "official-websote": "thegalleria.ae",
+        "official-website": "thegalleria.ae",
         "reference-image": "http://thegalleria.ae/wp-content/uploads/2014/04/The_Galleria_About_Us_960x400-012.png"
       },
       "geometry": {
@@ -229,7 +220,6 @@
       },
       "id": "9"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -240,7 +230,7 @@
         "location": "Yas West, Abu Dhabi",
         "opening-date": "2014",
         "number-of-stores": "400+",
-        "official-websote": "www.yasmall.ae",
+        "official-website": "www.yasmall.ae",
         "reference-image": "http://www.yasmall.ae/uploads/site1/Content/img366HeaderImage-ContactUs.jpg"
       },
       "geometry": {
@@ -252,7 +242,6 @@
       },
       "id": "10"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -263,7 +252,7 @@
         "location": "Hazza Bin Zayed St, Old Airport Rd, Al Wahda, Abu Dhabi",
         "opening-date": "2007",
         "number-of-stores": "152+",
-        "official-websote": "alwahda-mall.com",
+        "official-website": "alwahda-mall.com",
         "reference-image": "http://www.alwahda-mall.com/wp-content/uploads/2012/06/awm-300x172.jpg"
       },
       "geometry": {
@@ -275,7 +264,6 @@
       },
       "id": "11"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -286,7 +274,7 @@
         "location": "Abu Dhabi",
         "opening-date": "March, 2001",
         "number-of-stores": "400+",
-        "official-websote": "www.marinamall.ae",
+        "official-website": "www.marinamall.ae",
         "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Marina_Mall_Fountain.jpg/440px-Marina_Mall_Fountain.jpg"
       },
       "geometry": {
@@ -298,7 +286,6 @@
       },
       "id": "12"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -309,7 +296,7 @@
         "location": "Mubarak Bin Mohammed Street, Abu Dhabi",
         "opening-date": "January, 2007",
         "number-of-stores": "160",
-        "official-websote": "www.khalidiyahmall.com",
+        "official-website": "www.khalidiyahmall.com",
         "reference-image": "http://www.khalidiyahmall.com/images/banners/emke-group-office.jpg"
       },
       "geometry": {
@@ -321,7 +308,6 @@
       },
       "id": "13"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -332,7 +318,7 @@
         "location": "Khalifa Street, Al Markaziyah, Abu Dhabi",
         "opening-date": "late 2013",
         "number-of-stores": "160+",
-        "official-websote": "www.wtcad.ae",
+        "official-website": "www.wtcad.ae",
         "reference-image": "http://www.thenational.ae/storyimage/AB/20141103/ARTICLE/141109647/EP/1/1/EP-141109647.jpg&MaxW=640&imageVersion=default&NCS_modified=20141104091218.jpg"
       },
       "geometry": {
@@ -344,7 +330,6 @@
       },
       "id": "13"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -354,7 +339,7 @@
         "mall-name": "Mushrif Mall",
         "location": "25th st,Airport Road,Al Mushrif, Abu Dhabi",
         "number-of-stores": "200+",
-        "official-websote": "www.mushrifmall.com",
+        "official-website": "www.mushrifmall.com",
         "reference-image": "http://www.abudhabi2.com/wp-content/uploads/2015/03/Mushrif_Mall.jpg"
       },
       "geometry": {
@@ -366,7 +351,6 @@
       },
       "id": "14"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -376,7 +360,7 @@
         "mall-name": "Al Raha Mall",
         "location": "4048, Channel Street, Dubai Highway Road, Abu Dhabi",
         "number-of-stores": "100+",
-        "official-websote": "www.al-rahamall.com",
+        "official-website": "www.al-rahamall.com",
         "reference-image": "http://www.malls.com/upload/resize_cache/iblock/5b6/700_448_18770f3828b088159f747f14acd6eb0b3/5b603f5de4d66ce4d558245d45894dac.jpg"
       },
       "geometry": {
@@ -388,7 +372,6 @@
       },
       "id": "15"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -399,7 +382,7 @@
         "location": "19th Street, Musaffah, Abu Dhabi",
         "opening-date": "October 2010",
         "number-of-stores": "400+",
-        "official-websote": "www.dalmamall.co",
+        "official-website": "www.dalmamall.co",
         "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dalma_Exterior.jpg/2560px-Dalma_Exterior.jpg"
       },
       "geometry": {
@@ -411,7 +394,6 @@
       },
       "id": "16"
     },
-
     {
       "type": "Feature",
       "properties": {
@@ -422,7 +404,7 @@
         "location": "Mohammed Bin Zayed City, Abu Dhabi",
         "opening-date": "June 2006",
         "number-of-stores": "150+",
-        "official-websote": "www.mazyadmall.com",
+        "official-website": "www.mazyadmall.com",
         "reference-image": "http://www.mazyadmall.com/images/banner/about.jpg"
       },
       "geometry": {
@@ -433,6 +415,615 @@
         ]
       },
       "id": "17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#57068C",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#7708BF",
+        "fill-opacity": 0.4,
+        "name": "NYU Abu Dhabi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.432857036590576,
+              24.526227072625744
+            ],
+            [
+              54.434144496917725,
+              24.525563337310164
+            ],
+            [
+              54.435110092163086,
+              24.524801989539927
+            ],
+            [
+              54.43601131439209,
+              24.52420657332369
+            ],
+            [
+              54.43696618080139,
+              24.523308563199052
+            ],
+            [
+              54.43751335144042,
+              24.522830272577146
+            ],
+            [
+              54.43708419799805,
+              24.52196153597245
+            ],
+            [
+              54.436912536621094,
+              24.521795596836352
+            ],
+            [
+              54.43656921386719,
+              24.521414912107495
+            ],
+            [
+              54.43594694137573,
+              24.520926853074904
+            ],
+            [
+              54.431365728378296,
+              24.5251924248705
+            ],
+            [
+              54.432857036590576,
+              24.526227072625744
+            ]
+          ]
+        ]
+      },
+      "id": "18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#B5FF33",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#B5FF33",
+        "fill-opacity": 0.3,
+        "name": "NYUAD Athletic Fields"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.43654775619506,
+              24.527271472562944
+            ],
+            [
+              54.43873107433319,
+              24.525724391054684
+            ],
+            [
+              54.43779230117798,
+              24.524772706841194
+            ],
+            [
+              54.435598254203796,
+              24.526344202023132
+            ],
+            [
+              54.43652093410492,
+              24.527281233269054
+            ],
+            [
+              54.43654775619506,
+              24.527271472562944
+            ]
+          ]
+        ]
+      },
+      "id": "19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#F7FFE5",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#FF3F65",
+        "fill-opacity": 0.2,
+        "name": "Saadiyat Island"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.47416305541992,
+              24.59739230543494
+            ],
+            [
+              54.472618103027344,
+              24.597236221363
+            ],
+            [
+              54.47141647338867,
+              24.597860556482857
+            ],
+            [
+              54.47072982788085,
+              24.59489493692674
+            ],
+            [
+              54.46901321411133,
+              24.594582762359718
+            ],
+            [
+              54.47072982788085,
+              24.594114499049468
+            ],
+            [
+              54.47141647338867,
+              24.59239751859225
+            ],
+            [
+              54.4727897644043,
+              24.591148790741308
+            ],
+            [
+              54.474334716796875,
+              24.588963487032174
+            ],
+            [
+              54.475364685058594,
+              24.588026916623598
+            ],
+            [
+              54.473304748535156,
+              24.586934242292912
+            ],
+            [
+              54.467811584472656,
+              24.5802218908063
+            ],
+            [
+              54.46146011352539,
+              24.573353065758184
+            ],
+            [
+              54.45510864257812,
+              24.565859372599256
+            ],
+            [
+              54.445838928222656,
+              24.55680389559385
+            ],
+            [
+              54.431419372558594,
+              24.546498591760002
+            ],
+            [
+              54.42094802856445,
+              24.540408696091806
+            ],
+            [
+              54.417171478271484,
+              24.539784074695962
+            ],
+            [
+              54.41099166870117,
+              24.539003293579192
+            ],
+            [
+              54.40549850463867,
+              24.538847136772905
+            ],
+            [
+              54.40206527709961,
+              24.538690979772323
+            ],
+            [
+              54.400520324707024,
+              24.541970235979313
+            ],
+            [
+              54.39931869506836,
+              24.5424386941563
+            ],
+            [
+              54.396743774414055,
+              24.541033314378634
+            ],
+            [
+              54.395713806152344,
+              24.539784074695962
+            ],
+            [
+              54.3962287902832,
+              24.539159450191164
+            ],
+            [
+              54.39537048339844,
+              24.53791019185487
+            ],
+            [
+              54.396743774414055,
+              24.53619244133829
+            ],
+            [
+              54.395713806152344,
+              24.534162342236954
+            ],
+            [
+              54.398460388183594,
+              24.531195215259856
+            ],
+            [
+              54.401893615722656,
+              24.531351381585992
+            ],
+            [
+              54.402408599853516,
+              24.528852697057147
+            ],
+            [
+              54.403438568115234,
+              24.530102045537678
+            ],
+            [
+              54.404983520507805,
+              24.52572927146796
+            ],
+            [
+              54.408245086669915,
+              24.5235428273289
+            ],
+            [
+              54.41047668457031,
+              24.52213723599524
+            ],
+            [
+              54.41236495971679,
+              24.520419269669237
+            ],
+            [
+              54.41408157348633,
+              24.519326006136406
+            ],
+            [
+              54.41596984863281,
+              24.518076550447507
+            ],
+            [
+              54.41802978515625,
+              24.51745181794265
+            ],
+            [
+              54.42146301269531,
+              24.51979454881564
+            ],
+            [
+              54.417686462402344,
+              24.520887808270377
+            ],
+            [
+              54.41631317138671,
+              24.51979454881564
+            ],
+            [
+              54.41957473754883,
+              24.521043987415684
+            ],
+            [
+              54.423179626464844,
+              24.51995072932033
+            ],
+            [
+              54.4233512878418,
+              24.518076550447507
+            ],
+            [
+              54.4233512878418,
+              24.516514713360014
+            ],
+            [
+              54.42609786987305,
+              24.51901364337931
+            ],
+            [
+              54.430389404296875,
+              24.51901364337931
+            ],
+            [
+              54.430389404296875,
+              24.51698326652513
+            ],
+            [
+              54.42901611328125,
+              24.515889973088104
+            ],
+            [
+              54.425411224365234,
+              24.515889973088104
+            ],
+            [
+              54.42352294921875,
+              24.5157337875347
+            ],
+            [
+              54.42506790161133,
+              24.514328108816564
+            ],
+            [
+              54.42850112915039,
+              24.514328108816564
+            ],
+            [
+              54.431419372558594,
+              24.514328108816564
+            ],
+            [
+              54.43502426147461,
+              24.514015733632302
+            ],
+            [
+              54.438629150390625,
+              24.514015733632302
+            ],
+            [
+              54.44223403930664,
+              24.51182908559708
+            ],
+            [
+              54.44618225097656,
+              24.510579555349096
+            ],
+            [
+              54.44738388061523,
+              24.509798592634578
+            ],
+            [
+              54.44995880126953,
+              24.508861430970747
+            ],
+            [
+              54.45322036743164,
+              24.506987086677388
+            ],
+            [
+              54.45579528808594,
+              24.506362299034436
+            ],
+            [
+              54.457340240478516,
+              24.504800316339228
+            ],
+            [
+              54.45819854736328,
+              24.504019317712647
+            ],
+            [
+              54.45768356323242,
+              24.506049904048282
+            ],
+            [
+              54.45922851562499,
+              24.506049904048282
+            ],
+            [
+              54.460601806640625,
+              24.506049904048282
+            ],
+            [
+              54.46197509765625,
+              24.506049904048282
+            ],
+            [
+              54.4621467590332,
+              24.507924262318284
+            ],
+            [
+              54.46266174316406,
+              24.509642399509268
+            ],
+            [
+              54.46043014526367,
+              24.51151670419995
+            ],
+            [
+              54.45974349975586,
+              24.513234792273884
+            ],
+            [
+              54.45751190185547,
+              24.515577601787122
+            ],
+            [
+              54.4563102722168,
+              24.518388915534853
+            ],
+            [
+              54.45648193359375,
+              24.5212001663668
+            ],
+            [
+              54.45974349975586,
+              24.5212001663668
+            ],
+            [
+              54.461116790771484,
+              24.522605768187677
+            ],
+            [
+              54.4618034362793,
+              24.524636054156844
+            ],
+            [
+              54.46352005004883,
+              24.52572927146796
+            ],
+            [
+              54.46455001831055,
+              24.525885444592642
+            ],
+            [
+              54.46249008178711,
+              24.52947737285142
+            ],
+            [
+              54.461116790771484,
+              24.533537689754088
+            ],
+            [
+              54.46025848388672,
+              24.536504761362675
+            ],
+            [
+              54.4595718383789,
+              24.539003293579192
+            ],
+            [
+              54.458370208740234,
+              24.540877160098404
+            ],
+            [
+              54.45751190185547,
+              24.54337560526346
+            ],
+            [
+              54.4566535949707,
+              24.545874000679653
+            ],
+            [
+              54.45562362670898,
+              24.547591618668115
+            ],
+            [
+              54.45596694946289,
+              24.54899692498484
+            ],
+            [
+              54.45596694946289,
+              24.550558357983217
+            ],
+            [
+              54.455451965332024,
+              24.551495208452366
+            ],
+            [
+              54.45562362670898,
+              24.552900471035432
+            ],
+            [
+              54.45751190185547,
+              24.5532127494712
+            ],
+            [
+              54.458370208740234,
+              24.556335491062093
+            ],
+            [
+              54.45871353149414,
+              24.558833628345756
+            ],
+            [
+              54.45991516113281,
+              24.560863328240305
+            ],
+            [
+              54.461116790771484,
+              24.561956229957854
+            ],
+            [
+              54.461631774902344,
+              24.56398587929866
+            ],
+            [
+              54.464378356933594,
+              24.565859372599256
+            ],
+            [
+              54.46626663208008,
+              24.568357320106585
+            ],
+            [
+              54.46678161621093,
+              24.57069910067859
+            ],
+            [
+              54.46746826171875,
+              24.573665293248464
+            ],
+            [
+              54.46969985961914,
+              24.57585086389495
+            ],
+            [
+              54.472618103027344,
+              24.57975357378956
+            ],
+            [
+              54.47296142578125,
+              24.582095141363695
+            ],
+            [
+              54.475364685058594,
+              24.58334395950402
+            ],
+            [
+              54.47673797607422,
+              24.584124464518325
+            ],
+            [
+              54.478111267089844,
+              24.585373262423516
+            ],
+            [
+              54.47690963745117,
+              24.586153754790498
+            ],
+            [
+              54.47673797607422,
+              24.58740253245931
+            ],
+            [
+              54.474334716796875,
+              24.590368329509538
+            ],
+            [
+              54.474678039550774,
+              24.591929247107768
+            ],
+            [
+              54.474678039550774,
+              24.593334056306453
+            ],
+            [
+              54.47347640991211,
+              24.593177967173997
+            ],
+            [
+              54.47364807128906,
+              24.5942705870142
+            ],
+            [
+              54.47519302368164,
+              24.594582762359718
+            ],
+            [
+              54.474334716796875,
+              24.59567536993817
+            ],
+            [
+              54.47416305541992,
+              24.59739230543494
+            ]
+          ]
+        ]
+      },
+      "id": "20"
     }
   ]
 }
