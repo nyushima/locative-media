@@ -1,0 +1,438 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "tilte": "Shopping Malls in United Arab Emirates"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Abu Dhabi Mall",
+        "location": "Abu Dhabi",
+        "opening-date": "May, 2011",
+        "number-of-stores": "101",
+        "official-websote": "www.abudhabi-mall.com",
+        "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abu_Dhabi_Mall.JPG/1920px-Abu_Dhabi_Mall.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.38322590000007,
+          24.4959241
+        ]
+      },
+      "id": "1"
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Dubai Mall",
+        "location": "Financial Centre Road,Downtown Dubai",
+        "opening-date": "November 4, 2008",
+        "number-of-stores": "1200+",
+        "official-websote": "www.thedubaimall.com",
+        "reference-image": "http://gulfjobvacancy.com/wp-content/uploads/2016/09/dubai-marina-mall1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.27945049999994,
+          25.196878
+        ]
+      },
+      "id": "2"
+    },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Mall of the Emirates",
+        "location": "Dubai",
+        "opening-date": "September 28, 2005",
+        "number-of-stores": "700+",
+        "official-websote": "www.malloftheemirates.com",
+        "reference-image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mall_of_the_Emirates_(3679338750).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.20060799999999,
+          25.118107
+        ]
+      },
+      "id": "3"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Deira City Centre",
+        "location": "Dubai",
+        "opening-date": "August 27, 1995",
+        "number-of-stores": "370",
+        "official-websote": "www.citycentredeira.com",
+        "reference-image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mall_of_the_Emirates_(3679338750).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3328027,
+          25.2519659
+        ]
+      },
+      "id": "4"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Deira City Centre",
+        "location": "Dubai",
+        "opening-date": "August 27, 1995",
+        "number-of-stores": "370",
+        "official-websote": "www.citycentredeira.com",
+        "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/Deira_City_Centre_on_april_2012_pic1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3328027,
+          25.2519659
+        ]
+      },
+      "id": "4"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Ibn Battuta Mall",
+        "location": "Dubai",
+        "opening-date": "April 4, 2005",
+        "official-websote": "www.IbnBattutaMall.com",
+        "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/Ibn-Battuta-Mall.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.120296499999995,
+          25.0445481
+        ]
+      },
+      "id": "5"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Wafi Shopping Mall",
+        "location": "Dubai",
+        "opening-date": "2001",
+        "number-of-stores": "200+",
+        "official-websote": "www.wafi.com",
+        "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/waaffiii.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.319423599999936,
+          25.0445481
+        ]
+      },
+      "id": "6"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Festival Centre",
+        "location": "Dubai Festival City Mall, Festival City Area, Dubai",
+        "opening-date": "2003",
+        "number-of-stores": "75+",
+        "official-websote": "www.festivalcentre.com",
+        "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/banner-festivalcentre.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.36136350000004,
+          25.2171003
+        ]
+      },
+      "id": "7"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Al Ghurair Centre",
+        "location": "Al Rigga Street, Deira, Dubai",
+        "opening-date": "2003",
+        "official-websote": "alghuraircentre.com",
+        "reference-image": "http://www.uaestylemagazine.com/wp-content/uploads/2014/04/ghurair-1-web.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.31745950000004,
+          25.2678094
+        ]
+      },
+      "id": "8"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "The Galleria",
+        "location": "Al Falah St, Abu Dhabi",
+        "official-websote": "thegalleria.ae",
+        "reference-image": "http://thegalleria.ae/wp-content/uploads/2014/04/The_Galleria_About_Us_960x400-012.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.38875099999996,
+          24.5013774
+        ]
+      },
+      "id": "9"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Yas Mall",
+        "location": "Yas West, Abu Dhabi",
+        "opening-date": "2014",
+        "number-of-stores": "400+",
+        "official-websote": "www.yasmall.ae",
+        "reference-image": "http://www.yasmall.ae/uploads/site1/Content/img366HeaderImage-ContactUs.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.60880989999998,
+          24.4887562
+        ]
+      },
+      "id": "10"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Yas Mall",
+        "location": "Hazza Bin Zayed St, Old Airport Rd, Al Wahda, Abu Dhabi",
+        "opening-date": "2007",
+        "number-of-stores": "152+",
+        "official-websote": "alwahda-mall.com",
+        "reference-image": "http://www.alwahda-mall.com/wp-content/uploads/2012/06/awm-300x172.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3725915,
+          24.4701782
+        ]
+      },
+      "id": "11"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Marina Mall",
+        "location": "Abu Dhabi",
+        "opening-date": "March, 2001",
+        "number-of-stores": "400+",
+        "official-websote": "www.marinamall.ae",
+        "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Marina_Mall_Fountain.jpg/440px-Marina_Mall_Fountain.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.321514200000024,
+          24.4760586
+        ]
+      },
+      "id": "12"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Khalidiyah Mall",
+        "location": "Mubarak Bin Mohammed Street, Abu Dhabi",
+        "opening-date": "January, 2007",
+        "number-of-stores": "160",
+        "official-websote": "www.khalidiyahmall.com",
+        "reference-image": "http://www.khalidiyahmall.com/images/banners/emke-group-office.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.351768,
+          24.469963
+        ]
+      },
+      "id": "13"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "World Trade Centre Mall",
+        "location": "Khalifa Street, Al Markaziyah, Abu Dhabi",
+        "opening-date": "late 2013",
+        "number-of-stores": "160+",
+        "official-websote": "www.wtcad.ae",
+        "reference-image": "http://www.thenational.ae/storyimage/AB/20141103/ARTICLE/141109647/EP/1/1/EP-141109647.jpg&MaxW=640&imageVersion=default&NCS_modified=20141104091218.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.35610989999998,
+          24.4893611
+        ]
+      },
+      "id": "13"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Mushrif Mall",
+        "location": "25th st,Airport Road,Al Mushrif, Abu Dhabi",
+        "number-of-stores": "200+",
+        "official-websote": "www.mushrifmall.com",
+        "reference-image": "http://www.abudhabi2.com/wp-content/uploads/2015/03/Mushrif_Mall.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.41256150000004,
+          24.4346908
+        ]
+      },
+      "id": "14"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Al Raha Mall",
+        "location": "4048, Channel Street, Dubai Highway Road, Abu Dhabi",
+        "number-of-stores": "100+",
+        "official-websote": "www.al-rahamall.com",
+        "reference-image": "http://www.malls.com/upload/resize_cache/iblock/5b6/700_448_18770f3828b088159f747f14acd6eb0b3/5b603f5de4d66ce4d558245d45894dac.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.574210900000026,
+          24.43898339999999
+        ]
+      },
+      "id": "15"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Dalma Mall",
+        "location": "19th Street, Musaffah, Abu Dhabi",
+        "opening-date": "October 2010",
+        "number-of-stores": "400+",
+        "official-websote": "www.dalmamall.co",
+        "reference-image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dalma_Exterior.jpg/2560px-Dalma_Exterior.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.52386939999997,
+          24.3331425
+        ]
+      },
+      "id": "16"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF1A10",
+        "marker-size": "large",
+        "marker-symbol": "shop",
+        "mall-name": "Mazyad Mall",
+        "location": "Mohammed Bin Zayed City, Abu Dhabi",
+        "opening-date": "June 2006",
+        "number-of-stores": "150+",
+        "official-websote": "www.mazyadmall.com",
+        "reference-image": "http://www.mazyadmall.com/images/banner/about.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.537923999999975,
+          24.373319
+        ]
+      },
+      "id": "17"
+    }
+  ]
+}
