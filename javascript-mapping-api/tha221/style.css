@@ -1,0 +1,38 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: linear-gradient(to right, teal 30%, green 70%);
+}
+
+#map {
+	height: 94%;
+	width: 45%;
+	margin-top: 1%;
+	margin-left: 1%; 
+}
+
+#infoimg {
+	position: absolute;
+	bottom: 6%;
+	left: 50%;
+	padding: 0;
+	height: 50%;
+}
+
+#infotxt {
+	position: absolute;
+	text-align: center;
+	font-family: Arial;
+	left: 50%;
+	top: 4%;
+	padding: 0;
+	background-color: white;
+	height: 35%;
+	width: 42%;
+	opacity: 0.9;
+	border-radius: 2%;
+}
